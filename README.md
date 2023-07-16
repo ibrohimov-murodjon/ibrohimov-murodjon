@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif" style="position: absolute; top: 0; left: 50%;" width="50%">
+<img src="https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif" style="display: block; margin-left: auto; margin-right: auto;" width="50%">
 
 <h1 align="center">Hi 👋, I'm Murad Ibrokhimov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
