@@ -1,5 +1,7 @@
 # Murad Ibrokhimov
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;)](https://git.io/typing-svg)
+
 ### Frontend 𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ibrohimov-murodjon)](https://github.com/ibrohimov-murodjon)
