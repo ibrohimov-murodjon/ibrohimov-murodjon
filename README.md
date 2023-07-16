@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrohimov-murodjon&label=Profile%20views&color=0e75b6&style=flat" alt="ibrohimov-murodjon" /> </p>
 
 - 📫 How to reach me:  
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ibrohimov-murodjon)](https://github.com/ibrohimov-murodjon)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/heismurad)](https://t.me/heismurad)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibrokhimov.murad@gmail.com)](mailto:ibrokhimov.murad@gmail.com)
