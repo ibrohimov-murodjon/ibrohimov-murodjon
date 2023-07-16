@@ -1,5 +1,3 @@
-"# ibrohimov-murodjon"
-
 # Murad Ibrokhimov
 
 ### Frontend 𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
